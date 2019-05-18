@@ -1,0 +1,7 @@
+current directory: /Users/mbp/ruby-camp/Acarikyu2/vendor/bundle/ruby/2.5.0/gems/childprocess-1.0.1/ext
+/Users/mbp/.rbenv/versions/2.5.3/bin/ruby mkrf_conf.rb
+
+current directory: /Users/mbp/ruby-camp/Acarikyu2/vendor/bundle/ruby/2.5.0/gems/childprocess-1.0.1/ext
+/Users/mbp/.rbenv/versions/2.5.3/bin/ruby -rrubygems /Users/mbp/ruby-camp/Acarikyu2/vendor/bundle/ruby/2.5.0/gems/rake-12.3.2/exe/rake RUBYARCHDIR=/Users/mbp/ruby-camp/Acarikyu2/vendor/bundle/ruby/2.5.0/extensions/x86_64-darwin-14/2.5.0-static/childprocess-1.0.1 RUBYLIBDIR=/Users/mbp/ruby-camp/Acarikyu2/vendor/bundle/ruby/2.5.0/extensions/x86_64-darwin-14/2.5.0-static/childprocess-1.0.1
+Ignoring bootsnap-1.4.4 because its extensions are not built. Try: gem pristine bootsnap --version 1.4.4
+Ignoring nokogiri-1.10.3 because its extensions are not built. Try: gem pristine nokogiri --version 1.10.3
