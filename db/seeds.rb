@@ -30,4 +30,3 @@ Kasitumon.create(
   hentousya3: "",
   hentoubun3: ""
 )
-
